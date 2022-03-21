@@ -4,8 +4,11 @@
 
 ## First stage
 
-1. Texts as JS-Objects
-2. Show texts in HTML
+1. Texts as JS-Objects > put into an array (book shelf)
+2. Array reading list > read list if finished
+3. Log in
+4. Show texts in HTML
+
 
 ## Second stage
 
